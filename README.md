@@ -1,1 +1,1 @@
-This fork was to get around [an issue](https://github.com/jaredly/reason-language-server/issues/275) with the Visual Studio Code extensions, [reason-vsocde](https://github.com/jaredly/reason-language-server). That issue was resolve in version 1.6.1 of that extension. 
+This fork was to get around [an issue](https://github.com/jaredly/reason-language-server/issues/275) with the Visual Studio Code extension, [reason-vsocde](https://github.com/jaredly/reason-language-server). That issue was resolve in version 1.6.1 of that extension. 
